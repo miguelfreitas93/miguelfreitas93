@@ -3,9 +3,8 @@
 [![Linkedin: miguelfreitas93](https://img.shields.io/badge/-miguelfreitas93-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelfreitas93/)](https://www.linkedin.com/in/miguelfreitas93/)
 [![GitHub miguelfreitas93](https://img.shields.io/github/followers/miguelfreitas93?label=follow&style=social)](https://github.com/miguelfreitas93)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=miguelfreitas93.miguelfreitas93)
-<p>
-  Professional Services Engineer at <a href="https://www.checkmarx.com">Checkmarx</a> 💼 👨‍💻
-</p>
+<p>Professional Services Engineer at <a href="https://www.checkmarx.com">Checkmarx</a> 💼</p>
+<p>Ethical Hacker (CEH) 👨‍💻</p>
 
 ```text
 ⌚︎ Timezone: London
