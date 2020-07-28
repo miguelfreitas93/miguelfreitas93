@@ -7,8 +7,6 @@
 <p>Ethical Hacker (CEH) 👨‍💻</p>
 
 ```text
-⌚︎ Timezone: London
-
 🌱 Areas of Interest:
 - AppSec Programs
 - SAST, IAST, SCA, DAST
@@ -26,7 +24,7 @@
 - Perl
 - C#
 
-🔥 Source Code Repositories:
+🔭 Source Code Repositories:
 - Github
 - Gitlab
 - Bitbucket
