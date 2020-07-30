@@ -78,7 +78,12 @@
 
 ### Github Stats
 
-![miguelfreitas93 Github Stats](https://github-readme-stats.vercel.app/api?username=miguelfreitas93&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<a href="https://github.com/miguelfreitas93/miguelfreitas93">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfreitas93&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/miguelfreitas93/miguelfreitas93">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelfreitas93&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
 <!--
 **miguelfreitas93/miguelfreitas93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
