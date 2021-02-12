@@ -14,6 +14,7 @@
 - Integrations and Automations
 - AppSec Code Review & Analysis
 - Threat Modelling
+- Bug Bounties
 
 💬 Programming Languages: 
 - Java, Android, Kotlin
@@ -29,7 +30,7 @@
 - Gitlab
 - Bitbucket
 - TFS
-- CodeCommit
+- AWS CodeCommit
 
 🔥 Build Servers: 
 - Jenkins
