@@ -3,12 +3,12 @@
 [![Linkedin: miguelfreitas93](https://img.shields.io/badge/-miguelfreitas93-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelfreitas93/)](https://www.linkedin.com/in/miguelfreitas93/)
 [![GitHub miguelfreitas93](https://img.shields.io/github/followers/miguelfreitas93?label=follow&style=social)](https://github.com/miguelfreitas93)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=miguelfreitas93.miguelfreitas93)
-<p>Sr. Professional Services Engineer at <a href="https://www.checkmarx.com">Checkmarx</a> 💼</p>
+<p>Information Security Architect at <a href="https://www.mercedes-benz.io">Mercedes-Benz.io</a> 💼</p>
 <p>Ethical Hacker (CEH) 👨‍💻</p>
 
 ```text
 🌱 Areas of Interest:
-- AppSec Programs
+- InfoSec Programs
 - SAST, IAST, SCA, DAST
 - Solutions Architecture
 - Integrations and Automations
