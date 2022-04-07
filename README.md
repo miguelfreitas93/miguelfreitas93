@@ -75,6 +75,9 @@
 - Ubuntu
 - Alpine
 - CentOS
+- MacOS
+- Android
+- IOS
 ```
 
 ### Github Stats
